@@ -1,0 +1,18 @@
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       1.4Gi       124Mi        66Mi       642Mi       545Mi
+Swap:          953Mi       395Mi       557Mi
+
+Filesystem      Size  Used Avail Use% Mounted on
+udev            921M     0  921M   0% /dev
+tmpfs           198M  980K  197M   1% /run
+/dev/sda1        79G   16G   60G  21% /
+tmpfs           987M  4.0K  987M   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           987M  8.0K  987M   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           198M  128K  198M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+
+ 14:46:12 up  2:57,  1 user,  load average: 0.20, 0.28, 0.34
+
+Linux kali 6.12.25-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.12.25-1kali1 (2025-04-30) x86_64 GNU/Linux

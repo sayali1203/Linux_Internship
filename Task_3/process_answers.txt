@@ -1,0 +1,11 @@
+What is a Process?
+A process is a running instance of a program.
+
+What is a PID?
+PID stands for Process ID. It uniquely identifies a process.
+
+Which process is consuming the most CPU?
+(Write what you observed in top/htop)
+
+Which process is consuming the most Memory?
+(Write what you observed in top/htop)

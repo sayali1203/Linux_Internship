@@ -1,0 +1,8 @@
+What is a Service?
+A service is a background program managed by the operating system.
+
+Why are services important?
+They provide essential functionality such as networking and remote access.
+
+How can a stopped service affect a system?
+Required functions may stop working and users may lose access.

@@ -1,0 +1,62 @@
+1. netstat
+
+Purpose:
+Displays network connections.
+
+Example Output:
+netstat -tulnp
+
+Security Use Case:
+Identify open ports and suspicious connections.
+
+------------------------------------------------
+
+2. ss
+
+Purpose:
+Shows socket statistics.
+
+Example Output:
+ss -tulnp
+
+Security Use Case:
+Monitor active network sessions.
+
+------------------------------------------------
+
+3. who
+
+Purpose:
+Shows logged-in users.
+
+Example Output:
+who
+
+Security Use Case:
+Detect unauthorized users.
+
+------------------------------------------------
+
+4. w
+
+Purpose:
+Displays logged-in users and activity.
+
+Example Output:
+w
+
+Security Use Case:
+Monitor user activity.
+
+------------------------------------------------
+
+5. last
+
+Purpose:
+Displays login history.
+
+Example Output:
+last
+
+Security Use Case:
+Investigate suspicious logins.
