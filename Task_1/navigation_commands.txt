@@ -1,0 +1,32 @@
+/home/kali/Linux_Task_01_SayaliPatil
+Command_Outputs
+Notes
+README.md
+Research_Answers
+research_answers.txt
+Screenshots
+system_info.txt
+.
+├── Command_Outputs
+│   ├── navigation_commands.txt
+│   └── system_info.txt
+├── Notes
+├── README.md
+├── Research_Answers
+│   └── research_answers.txt
+├── research_answers.txt
+├── Screenshots
+│   ├── Screenshot_2025-10-12_06_32_27.png
+│   ├── Screenshot_2026-06-14_08_15_56.png
+│   ├── Screenshot_2026-06-14_08_16_29.png
+│   ├── Screenshot_2026-06-14_08_18_59.png
+│   ├── Screenshot_2026-06-14_08_19_28.png
+│   ├── Screenshot_2026-06-14_08_22_32.png
+│   ├── Screenshot_2026-06-14_08_23_21.png
+│   ├── Screenshot_2026-06-14_09_07_04.png
+│   ├── Screenshot_2026-06-14_09_08_10.png
+│   ├── Screenshot_2026-06-14_09_11_19.png
+│   └── Screenshot_2026-06-14_09_12_17.png
+└── system_info.txt
+
+5 directories, 17 files

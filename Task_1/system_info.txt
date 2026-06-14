@@ -1,0 +1,14 @@
+Kernel Version :
+Linux kali 6.12.25-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.12.25-1kali1 (2025-04-30) x86_64 GNU/Linux
+
+Username:
+kali
+
+Current Directory:
+home/kali/Desktop/CyberSecurity_Lab/Linux
+
+Current Date and Time:
+Sun Jun 14 09:12:05 AM EDT 2026
+
+System Uptime:
+09:12:10 up 58 min, 1 user, load average: 0.64, 0.34, 0.22
