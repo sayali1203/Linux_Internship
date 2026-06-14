@@ -1,0 +1,22 @@
+File: password_backup.txt
+Recommended Permission: 600
+Reason:
+Contains sensitive passwords and should only be accessible by the owner.
+
+
+File: public_notice.txt
+Recommended Permission: 644
+Reason:
+Everyone should be able to read it, but only the owner should modify it.
+
+
+File: system_log.txt
+Recommended Permission: 640
+Reason:
+System logs should be accessible only to administrators and authorized users.
+
+
+File: personal_notes.txt
+Recommended Permission: 600
+Reason:
+Contains personal information and should remain private.

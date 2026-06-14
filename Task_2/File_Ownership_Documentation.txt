@@ -1,0 +1,13 @@
+Part C: File Ownership
+
+Original Owner:
+kali
+
+New Owner:
+student1
+
+Command Used:
+sudo chown student1 report.txt
+
+Explanation:
+The ownership of report.txt was changed from kali to student1 using the chown command.

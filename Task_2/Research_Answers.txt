@@ -1,0 +1,18 @@
+1. Why are file permissions important?
+
+File permissions protect files from unauthorized access, modification, and deletion. They help maintain system security and data privacy.
+
+
+2. What happens if sensitive files are given 777 permissions?
+
+Any user can read, modify, or delete the file. This can lead to data theft, accidental changes, or security breaches.
+
+
+3. What is the Principle of Least Privilege?
+
+The Principle of Least Privilege means users should only have the minimum permissions necessary to perform their tasks.
+
+
+4. Why do organizations restrict user access?
+
+Organizations restrict user access to protect confidential information, reduce security risks, and prevent unauthorized actions.

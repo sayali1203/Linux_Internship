@@ -1,0 +1,6 @@
+Security Policy
+
+1. Use strong passwords.
+2. Restrict unauthorized access.
+3. Follow least privilege principles.
+4. Regularly update systems.

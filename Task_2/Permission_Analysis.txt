@@ -1,0 +1,73 @@
+Permission: 755
+
+Owner Rights:
+Read, Write, Execute
+
+Group Rights:
+Read, Execute
+
+Other User Rights:
+Read, Execute
+
+Real-world Use Case:
+Used for directories and executable scripts where the owner can modify files but others can only access them.
+
+
+Permission: 644
+
+Owner Rights:
+Read, Write
+
+Group Rights:
+Read
+
+Other User Rights:
+Read
+
+Real-world Use Case:
+Used for normal documents and configuration files.
+
+
+Permission: 777
+
+Owner Rights:
+Read, Write, Execute
+
+Group Rights:
+Read, Write, Execute
+
+Other User Rights:
+Read, Write, Execute
+
+Real-world Use Case:
+Used only for testing. Not recommended because everyone gets full access.
+
+
+Permission: 600
+
+Owner Rights:
+Read, Write
+
+Group Rights:
+No Access
+
+Other User Rights:
+No Access
+
+Real-world Use Case:
+Used for password files and confidential information.
+
+
+Permission: 700
+
+Owner Rights:
+Read, Write, Execute
+
+Group Rights:
+No Access
+
+Other User Rights:
+No Access
+
+Real-world Use Case:
+Used for private scripts and personal directories.
